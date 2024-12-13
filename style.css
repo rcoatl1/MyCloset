@@ -392,24 +392,6 @@ section {
 
 }
 
-/*Wide Screen*/
-
-@media screen and (min-width:700px) {
-
-    .nav_list{
-        display: none;
-    }
-
-    .item {
-        padding: 2.5em;
-    }
-
-    #nav_icons a {
-        font-size: 25pt;
-    }
-
- 
-}
 
 
     
